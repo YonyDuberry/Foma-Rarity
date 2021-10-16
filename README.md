@@ -1,4 +1,4 @@
-# Game infomation
+# Foma-Rarity infomation
 website  :  https://fomorarity.com/ <br>
 Twitter  :  https://twitter.com/YonyDuberry <br>
 contract :  https://github.com/YonyDuberry/Foma-Rarity/ <br>
@@ -11,9 +11,6 @@ Email    :  isaacsonqnfihb@gmail.com <br>
 apply link : https://fomorarity.com/guild.php <br>
 （If you have applied for a guild, email your address to isaacsonqnfihb@gmail.com , we'll show it here.）
 
-# Foma-Rarity
-it's a solidity contract of fomo rarity
-every function has a Independent file
 
 # safe math.sol
 it's safe for digital processing
