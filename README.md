@@ -1,8 +1,8 @@
 # Foma-Rarity infomation
 website  :  https://fomorarity.com/ <br>
 Twitter  :  https://twitter.com/YonyDuberry <br>
-contract :  https://github.com/YonyDuberry/Foma-Rarity/ <br>
-community:  https://discord.gg/skp8gpfafc   <br>
+contract :  [0x9dd9b2cfacdb273b1d552c6f59b059b099247734](https://ftmscan.com/address/0x9dd9b2cfacdb273b1d552c6f59b059b099247734#code)   <br>
+community:  [discord](https://discord.gg/skp8gpfafc)   <br>
 Email    :  isaacsonqnfihb@gmail.com <br>
 
 
