@@ -1,9 +1,9 @@
 # Game infomation
 website  :  https://fomorarity.com/ <br>
 Twitter  :  
-contract :  https://github.com/YonyDuberry/Foma-Rarity/
-community:  https://discord.gg/skp8gpfafc  
-Email    :  isaacsonqnfihb@gmail.com
+contract :  https://github.com/YonyDuberry/Foma-Rarity/ <br>
+community:  https://discord.gg/skp8gpfafc   <br>
+Email    :  isaacsonqnfihb@gmail.com <br>
 
 
 # Our Guild
