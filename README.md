@@ -1,5 +1,5 @@
 # Game infomation
-website  :  https://fomorarity.com/
+website  :  https://fomorarity.com/ \n
 Twitter  :  
 contract :  https://github.com/YonyDuberry/Foma-Rarity/
 community:  https://discord.gg/skp8gpfafc  
