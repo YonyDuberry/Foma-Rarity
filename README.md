@@ -1,3 +1,17 @@
+# Game infomation
+website  :  https://fomorarity.com/
+Twitter  :  
+contract :  https://github.com/YonyDuberry/Foma-Rarity/
+community:  https://discord.gg/skp8gpfafc  
+Email    :  isaacsonqnfihb@gmail.com
+
+
+# Our Guild
+
+
+
+（If you have applied for a guild, email your address to isaacsonqnfihb@gmail.com , we'll show it here.）
+
 # Foma-Rarity
 it's a solidity contract of fomo rarity
 every function has a Independent file
